@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body
+        {
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+            background-image: url('https://cdn.prod.website-files.com/6718da5ecf694c9af0e8d5d7/677f9f0b828914dc42951d03_673b6ce53d95fad5955a3a0e_staff_feedback_form_template_thumb.png');
+        }
+          form
+          {
+            background: rgba(255,255,255,0.8);
+            padding: 30px;
+            max-width: 600px;
+            margin: 100px auto;
+            border-radius: 10px;
+          }  
+          h1{
+            text-align: center;
+            font-size: 2.5em;
+            color: black;
+          } 
+          label{
+            display: block;
+            margin-top: 10px;
+            font-weight: bold;
+          } 
+          input,textarea,button{
+            width: calc(100%-22px);
+            padding:10px;
+            margin-top: 5px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+          }
+          button{
+            background-color: #28a745;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+          }
+          button:hover{
+            background-color: #218838;
+          }
+    </style>
+    <title>CoderOne Feedback Form</title>
+</head>
+<body>
+    <h1>CoderOne Feedback System Form</h1>
+    <form action="">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name">
+        <br><br>
+        <label for="contactNumber">Contact Number:</label>
+        <input type="text" id="contactNumber" name="contactNumber">
+        <br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email">
+        <br><br>
+        <label for="feedback">Describe your feedback:</label>
+        <textarea name="feedback" id="feedback"></textarea>
+        <br><br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
