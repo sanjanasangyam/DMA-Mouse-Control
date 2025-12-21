@@ -1,0 +1,47 @@
+# Executables# Build artifacts
+
+*.exe*.obj
+
+*.pdb
+
+# Object files and intermediate build artifacts*.ilk
+
+*.obj
+
+*.o# DLLs copied to root (from external/memprocfs)
+
+*.pdb/*.dll
+
+*.ilk
+
+# Old config files (no longer used)
+
+# Visual Studio temporary filesmouse_config.txt
+
+*.userdma_config.json
+
+*.suo
+
+*.sdf# VS Code
+
+*.opensdf.vscode/
+
+*.VC.db
+
+*.VC.opendb# Visual Studio
+
+.vs/
+
+# Build directories (but keep the bin folder structure)*.user
+
+*.log*.suo
+
+
+# Keep DLLs and LIBs (required for app to work)
+!*.dll
+!*.lib
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
